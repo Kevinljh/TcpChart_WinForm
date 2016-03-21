@@ -1,0 +1,9 @@
+D:\用户目录\Desktop\Win32-A6\Win32-A6\bin\Debug\Win32-A6.exe.config
+D:\用户目录\Desktop\Win32-A6\Win32-A6\obj\Debug\Win32-A6.exe
+D:\用户目录\Desktop\Win32-A6\Win32-A6\obj\Debug\Win32-A6.pdb
+D:\用户目录\Desktop\Win32-A6\Win32-A6\bin\Debug\Win32-A6.exe
+D:\用户目录\Desktop\Win32-A6\Win32-A6\bin\Debug\Win32-A6.pdb
+D:\用户目录\Desktop\Win32-A6\Win32-A6\obj\Debug\blank.csprojResolveAssemblyReference.cache
+D:\用户目录\Desktop\Win32-A6\Win32-A6\obj\Debug\Win32_A6.ServerForm.resources
+D:\用户目录\Desktop\Win32-A6\Win32-A6\obj\Debug\Win32_A6.Properties.Resources.resources
+D:\用户目录\Desktop\Win32-A6\Win32-A6\obj\Debug\blank.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\bin\Debug\Win32-A6.exe.config
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\obj\Debug\Win32-A6.exe
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\obj\Debug\Win32-A6.pdb
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\bin\Debug\Win32-A6.exe
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\bin\Debug\Win32-A6.pdb
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\obj\Debug\Win32_A6.Properties.Resources.resources
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\obj\Debug\Server.csproj.GenerateResource.Cache
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Win32-A6\obj\Debug\Win32_A6.ServerForm.resources

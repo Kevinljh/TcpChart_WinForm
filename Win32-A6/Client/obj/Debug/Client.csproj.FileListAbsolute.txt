@@ -1,0 +1,17 @@
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\bin\Debug\Client.exe.config
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\bin\Debug\Client.exe
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\bin\Debug\Client.pdb
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\obj\Debug\Client.Properties.Resources.resources
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\obj\Debug\Client.exe
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\obj\Debug\Client.pdb
+\\FS06D\STU9\Home\MLdasilva-cc\Visual Studio 2013\Projects\Win32-A6\Client\obj\Debug\Client.ClientForm.resources
+E:\Win32-A6\Client\bin\Debug\Client.exe.config
+E:\Win32-A6\Client\obj\Debug\Client.exe
+E:\Win32-A6\Client\obj\Debug\Client.pdb
+E:\Win32-A6\Client\bin\Debug\Client.exe
+E:\Win32-A6\Client\bin\Debug\Client.pdb
+E:\Win32-A6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Win32-A6\Client\obj\Debug\Client.ClientForm.resources
+E:\Win32-A6\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Win32-A6\Client\obj\Debug\Client.csproj.GenerateResource.Cache

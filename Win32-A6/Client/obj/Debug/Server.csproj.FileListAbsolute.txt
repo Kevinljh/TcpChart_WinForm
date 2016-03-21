@@ -1,0 +1,33 @@
+E:\Win32-A6\Client\bin\Debug\Client.exe.config
+E:\Win32-A6\Client\bin\Debug\Client.exe
+E:\Win32-A6\Client\bin\Debug\Client.pdb
+E:\Win32-A6\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Win32-A6\Client\obj\Debug\Client.ServerForm.resources
+E:\Win32-A6\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Win32-A6\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+E:\Win32-A6\Client\obj\Debug\Client.exe
+E:\Win32-A6\Client\obj\Debug\Client.pdb
+D:\用户目录\Desktop\Win32-A6\Client\bin\Debug\Client.exe.config
+D:\用户目录\Desktop\Win32-A6\Client\obj\Debug\Client.exe
+D:\用户目录\Desktop\Win32-A6\Client\obj\Debug\Client.pdb
+D:\用户目录\Desktop\Win32-A6\Client\bin\Debug\Client.exe
+D:\用户目录\Desktop\Win32-A6\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\用户目录\Desktop\Win32-A6\Client\obj\Debug\Client.ServerForm.resources
+D:\用户目录\Desktop\Win32-A6\Client\obj\Debug\Client.Properties.Resources.resources
+D:\用户目录\Desktop\Win32-A6\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\用户目录\Desktop\Win32-A6\Client\bin\Debug\Client.pdb
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\bin\Debug\Client.exe.config
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\obj\Debug\Client.exe
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\obj\Debug\Client.pdb
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\obj\Debug\Client.ServerForm.resources
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\bin\Debug\Client.exe
+C:\Users\Jli1-cc\Desktop\tcp assignment\Win32-A6\Client\bin\Debug\Client.pdb
+G:\year2semaster1\windows application\tcp assignment\Win32-A6\Client\bin\Debug\Client.exe.config
+G:\year2semaster1\windows application\tcp assignment\Win32-A6\Client\obj\Debug\Client.exe
+G:\year2semaster1\windows application\tcp assignment\Win32-A6\Client\obj\Debug\Client.pdb
+H:\year2semaster1\windows application\tcp assignment\Win32-A6\Client\bin\Debug\Client.exe.config
+H:\year2semaster1\windows application\tcp assignment\Win32-A6\Client\obj\Debug\Client.exe
+H:\year2semaster1\windows application\tcp assignment\Win32-A6\Client\obj\Debug\Client.pdb
